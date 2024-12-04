@@ -1,7 +1,7 @@
 # OP_Script_Hub
 Made this so fast -_-
 
-This scrip[t was just made for fun
+This script was just made for fun
 
 DM me at antis1212 on discord for any bugs and stuff
 
