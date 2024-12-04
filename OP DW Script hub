@@ -1,4 +1,4 @@
-if game.PlaceId == 16116270224 then
+if game.PlaceId == 16116270224 or 16552821455 then
 	local Fun = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/nightmares.fun-UI-Library/main/source.lua"))()
 	local window = Fun.Create("OP DW script by antis1212 on discord")
 	local tab = window:Tab("Main scripts")
