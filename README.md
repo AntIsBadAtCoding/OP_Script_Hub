@@ -1,4 +1,4 @@
-# OP_Script_Hub
+# OP Script Hub
 Made this so fast -_-
 
 This script was just made for fun
