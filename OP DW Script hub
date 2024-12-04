@@ -1,0 +1,32 @@
+if game.PlaceId == 16116270224 then
+	local Fun = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/nightmares.fun-UI-Library/main/source.lua"))()
+	local window = Fun.Create("OP DW script by antis1212 on discord")
+	local tab = window:Tab("Main scripts")
+	local section = tab:Section("Not op")
+	section:Button("Flight (Has key)", function()
+	   loadstring(game:HttpGet("https://pastebin.com/raw/PDdkDsgy"))()
+	end)
+	section:Button("Fake admin panel", function()
+	   loadstring(game:HttpGet("https://pastebin.com/raw/VA4t52Ae"))()
+	end)
+	section:Button("auto skill check", function()
+	   loadstring(game:HttpGet("https://pastebin.com/raw/VA4t52Ae"))()
+	end)
+	local section2 = tab:Section("OP")
+	section2:Button("OP script 1", function()
+	   loadstring(game:HttpGet("https://pastebin.com/raw/ZLZCNatJ"))()
+	end)
+	section2:Button("Slender script", function()
+	   loadstring(game:HttpGet("https://raw.githubusercontent.com/Slendyvn/Slendys-Dandys-World/refs/heads/main/Slendys%20Dandys%20World"))()
+	end)
+	section2:Button("Noxious Hub", function()
+	   loadstring(game:HttpGet("https://raw.githubusercontent.com/Noxious-X-Plethora/Noxious-Hub/refs/heads/main/Dandy'sWorldNoxiousHub"))()
+	end)
+
+  local section3 = tab:Section("Made by antis1212 on discord")
+  
+	print("Script loaded")
+  print("This script was made by antis1212 on discord")
+else
+	print("Wrong game buddy")
+end
