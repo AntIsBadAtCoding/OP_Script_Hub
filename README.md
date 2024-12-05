@@ -11,6 +11,5 @@ use this to execute it:
 ```
 loadstring(game:HttpGet("https://raw.github.com/AntIsBadAtCoding/OP_Script_Hub/blob/fb0c414431736045c87bb1da227afa05ebc11b09/OP%20DW%20Script%20hub"))()
 ```
-
-![Preview](https://github.com/user-attachments/assets/e99c477a-50c3-40d7-b823-fe84530aab46) ![Preveiw 2](https://github.com/user-attachments/assets/35373d64-47be-41c9-8e3d-6ea8ac270384)
+![Preview 1](https://github.com/user-attachments/assets/32ea5cc9-a90f-4e89-a77e-b2c37b5c427d) ![Preview 2](https://github.com/user-attachments/assets/ecb45fe2-3005-4d83-a309-76039f87fdb5)
 
