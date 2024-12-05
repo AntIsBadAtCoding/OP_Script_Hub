@@ -13,3 +13,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AntIsBadAtCoding/OP_S
 ```
 ![Preview 1](https://github.com/user-attachments/assets/32ea5cc9-a90f-4e89-a77e-b2c37b5c427d) ![Preview 2](https://github.com/user-attachments/assets/ecb45fe2-3005-4d83-a309-76039f87fdb5)
 
+the keybind to togle and untogle the menu is left alt
