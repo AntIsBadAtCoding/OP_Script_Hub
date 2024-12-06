@@ -3,7 +3,7 @@ Made this so fast -_-
 
 This script was just made for fun
 
-DM me at antis1212 on discord for any bugs and stuff
+DM me at antis1212 on discord for any bugs or if you want your script added
 
 I do not recommend using this on android. some guis including mine can't be moved
 
