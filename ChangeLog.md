@@ -11,4 +11,9 @@
   added more credits
   added Infinite yield
 
+# V1.4 | 1/22/25
+  Changed the entire ui lib
+  changed some script localtions
+  changed the credits
+
 just wait for more updates
