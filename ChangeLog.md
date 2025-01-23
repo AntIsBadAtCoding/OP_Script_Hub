@@ -7,9 +7,12 @@
 # V1.1 | 12/8/24
   added a script from someone who requested
 
-# V1.2 | 12/18/24
+# V1.2 | 12/8/24
   added more credits
   added Infinite yield
+
+# V1.3 | 12/16/24
+  i forgot / unknown
 
 # V1.4 | 1/22/25
   Changed the entire ui lib
