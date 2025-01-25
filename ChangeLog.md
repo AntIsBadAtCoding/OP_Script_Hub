@@ -19,4 +19,9 @@
   changed some script localtions
   changed the credits
 
+# V1.5 | 1/25/25
+  changed the entire ui lib again
+  removed some scripts
+  changed the credits
+
 just wait for more updates
